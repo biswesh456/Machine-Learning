@@ -1,3 +1,5 @@
+The folder contains some traditional DP probblems solved using RL algorithms.
+
 # Setup
 
 The code divides the work into 2 parts. One is handled by the environment while
