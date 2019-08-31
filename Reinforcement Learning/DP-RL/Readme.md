@@ -1,4 +1,4 @@
-The folder contains some traditional DP probblems solved using RL algorithms.
+The folder contains some traditional DP problems solved using RL algorithms.
 
 # Setup
 
